@@ -24,5 +24,3 @@ Contribuições para open source de alto impacto (ex: TensorFlow, ROS)
 
 🛠️ Atualmente desenvolvendo soluções que poderiam ser úteis em Marte — mas também resolvem problemas aqui na Terra.
 
-📫 Se você está construindo o futuro bo tb!
-
